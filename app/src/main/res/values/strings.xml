@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Project3</string>
+
+    <!-- Radio buttons (difficulties) -->
+    <string name="SelectDifficulty">Select difficulty:</string>
+    <string name="EasyDifficulty">Easy</string>
+    <string name="MediumDifficulty">Medium</string>
+    <string name="HardDifficulty">Hard</string>
+
+    <!-- Radio buttons (operations)   -->
+    <string name="SelectOperation">Select operation:</string>
+    <string name="AdditionOperation">Addition</string>
+    <string name="MultiplicationOperation">Multiplication</string>
+    <string name="DivisionOperation">Division</string>
+    <string name="SubtractionOperation">Subtraction</string>
+
+
+    <string name="number_of_questions">Number of questions</string>
+    <string name="minus">-</string>
+    <string name="questionsCount">0</string>
+    <string name="plus">+</string>
+    <string name="start">START</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="done">DONE</string>
+    <string name="your_answer">Your answer:</string>
+    <string name="what_is">What is...</string>
+    <string name="EquationText">EquationText</string>
+    <string name="your_score">Your Score: 0/0</string>
+    <string name="do_it_again">Do It Again</string>
+
+</resources>
